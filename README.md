@@ -1,5 +1,5 @@
 # PostgreSQL
-This github repository holds [PostgreSQL](https://www.postgresql.org) scripts resulting from various projects
+This github repository holds references for, and scripts resulting from, various PostgreSQL projects
 
 ## Reference Books
 
